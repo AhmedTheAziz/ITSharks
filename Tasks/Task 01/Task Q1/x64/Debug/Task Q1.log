@@ -1,0 +1,5 @@
+﻿  T01Q01.cpp
+D:\ITSharks\Tasks\Task 01\Task Q1\T01Q01.cpp(78,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ITSharks\Tasks\Task 01\Task Q1\T01Q01.cpp(158,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ITSharks\Tasks\Task 01\Task Q1\T01Q01.cpp(159,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Task Q1.vcxproj -> D:\ITSharks\Tasks\Task 01\x64\Debug\Task Q1.exe

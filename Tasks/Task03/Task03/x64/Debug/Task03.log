@@ -1,0 +1,6 @@
+﻿  Task03.cpp
+D:\ITSharks\Tasks\Task03\Task03\Task03.cpp(256,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\ITSharks\Tasks\Task03\Task03\Task03.cpp(319,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\ITSharks\Tasks\Task03\Task03\Task03.cpp(352,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ITSharks\Tasks\Task03\Task03\Task03.cpp(460,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Task03.vcxproj -> D:\ITSharks\Tasks\Task03\x64\Debug\Task03.exe

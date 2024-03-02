@@ -1,0 +1,6 @@
+﻿  Session08.cpp
+D:\ITSharks\Sessions\Session08\Session08\Session08\Session08.cpp(19,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ITSharks\Sessions\Session08\Session08\Session08\Session08.cpp(160,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ITSharks\Sessions\Session08\Session08\Session08\Session08.cpp(166,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ITSharks\Sessions\Session08\Session08\Session08\Session08.cpp(223): warning C4715: 'sui': not all control paths return a value
+  Session08.vcxproj -> D:\ITSharks\Sessions\Session08\Session08\x64\Debug\Session08.exe

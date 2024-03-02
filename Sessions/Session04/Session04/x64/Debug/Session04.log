@@ -1,0 +1,3 @@
+﻿  Session04.cpp
+D:\ITSharks\Sessions\Session04\Session04\Session04.cpp(11,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Session04.vcxproj -> D:\ITSharks\Sessions\Session04\x64\Debug\Session04.exe

@@ -1,0 +1,3 @@
+﻿  Session05.cpp
+D:\ITSharks\Sessions\Session05\Session05\Session05.cpp(171,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Session05.vcxproj -> D:\ITSharks\Sessions\Session05\x64\Debug\Session05.exe

@@ -1,0 +1,3 @@
+﻿  Session12.cpp
+D:\ITSharks\Sessions\Session12\Session12\Session12.cpp(185,130): warning C4305: 'argument': truncation from 'double' to 'float'
+  Session12.vcxproj -> D:\ITSharks\Sessions\Session12\x64\Debug\Session12.exe

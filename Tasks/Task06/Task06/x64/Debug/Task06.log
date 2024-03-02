@@ -1,0 +1,3 @@
+﻿  Task06.cpp
+D:\ITSharks\Tasks\Task06\Task06\Task06.cpp(296,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Task06.vcxproj -> D:\ITSharks\Tasks\Task06\x64\Debug\Task06.exe
